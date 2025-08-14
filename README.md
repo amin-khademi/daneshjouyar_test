@@ -158,6 +158,31 @@ Pull requests are welcome. Please:
 - Follow the existing folder structure and code style
 - Use meaningful, semantic commit messages
 
+### Git Flow & Commit Convention
+
+- Branching model:
+	- main: production-ready
+	- develop: integration branch
+	- feature/*: feature branches (merge to develop via no-ff)
+	- hotfix/*: urgent fixes from main
+- Conventional commits + emojis (examples):
+	- feat: ✨ new feature
+	- fix: 🐛 bug fix
+	- chore: 🛠️ tooling/config
+	- docs: 📝 docs
+	- style: 🎨 formatting
+	- refactor: ♻️ refactor
+	- perf: 🚀 performance
+	- test: ✅ tests
+	- build: 📦 build system
+	- ci: 🔁 CI/CD
+	- merge: 🔀 merge
+	- revert: ⏪ revert
+	- fire/remove: 🔥 removals
+
+Example:
+	feat(countries): ✨ add search debounce and favorites toggle
+
 ## 📄 License
 This project is licensed under the terms described in [LICENSE](LICENSE).
 
