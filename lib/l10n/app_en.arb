@@ -1,0 +1,115 @@
+{
+  "appTitle": "Countries Explorer",
+  "@appTitle": {"description": "The title of the application"},
+
+  "countries": "Countries",
+  "@countries": {"description": "Countries label"},
+
+  "capital": "Capital",
+  "@capital": {"description": "Capital label"},
+
+  "noCountriesFound": "No countries found",
+  "@noCountriesFound": {"description": "Message when no countries are found"},
+
+  "pullToRefresh": "Pull to refresh",
+  "@pullToRefresh": {"description": "Pull to refresh instruction"},
+
+  "error": "Error",
+  "@error": {"description": "Error label"},
+
+  "retry": "Retry",
+  "@retry": {"description": "Retry button text"},
+
+  "darkMode": "Dark Mode",
+  "@darkMode": {"description": "Dark mode label"},
+
+  "language": "Language",
+  "@language": {"description": "Language label"},
+
+  "english": "English",
+  "@english": {"description": "English language option"},
+
+  "persian": "Persian",
+  "@persian": {"description": "Persian language option"},
+
+  "loading": "Loading...",
+  "@loading": {"description": "Indicates that content is loading on splash"},
+  "appSubtitle": "Countries Explorer",
+
+  "searchCountriesHint": "Search countries...",
+  "@searchCountriesHint": {"description": "Hint for countries search field"},
+
+  "favorites": "Favorites",
+  "@favorites": {"description": "Favorites label/tooltip"},
+
+  "sortBy": "Sort by:",
+  "@sortBy": {"description": "Sort by header"},
+
+  "name": "Name",
+  "@name": {"description": "Name label"},
+
+  "code": "Code",
+  "@code": {"description": "Country code label"},
+
+  "orderAsc": "Asc",
+  "@orderAsc": {"description": "Ascending order tooltip"},
+
+  "orderDesc": "Desc",
+  "@orderDesc": {"description": "Descending order tooltip"},
+
+  "onlyFavorites": "Only favorites",
+  "@onlyFavorites": {"description": "Only favorites filter label"},
+
+  "results": "Results",
+  "@results": {"description": "Results label for count"},
+
+  "cancel": "Cancel",
+  "@cancel": {"description": "Cancel button"},
+
+  "noResults": "No results",
+  "@noResults": {"description": "No results found label"},
+
+  "tryOneOfThese": "Try one of these:",
+  "@tryOneOfThese": {"description": "Suggestions prompt"},
+
+  "favorite": "Favorite",
+  "@favorite": {"description": "Favorite tooltip"},
+
+  "unfavorite": "Unfavorite",
+  "@unfavorite": {"description": "Unfavorite tooltip"}
+  ,
+
+  "settings": "Settings",
+  "@settings": {"description": "Settings page title"},
+
+  "themeAndAppearance": "Theme & Appearance",
+  "@themeAndAppearance": {"description": "Theme and appearance section title"},
+
+  "lightMode": "Light Mode",
+  "@lightMode": {"description": "Light mode label"},
+
+  "useLightTheme": "Use light theme",
+  "@useLightTheme": {"description": "Light theme subtitle"},
+
+  "useDarkTheme": "Use dark theme",
+  "@useDarkTheme": {"description": "Dark theme subtitle"},
+
+  "englishFull": "English (United States)",
+  "@englishFull": {"description": "English language full name"},
+
+  "persianFull": "Persian (Iran)",
+  "@persianFull": {"description": "Persian language full name"},
+
+  "about": "About",
+  "@about": {"description": "About section title"},
+
+  "appNameLabel": "App Name",
+  "@appNameLabel": {"description": "Application name label in settings"}
+  ,
+  "exitApp": "Exit app",
+  "@exitApp": {"description": "Title for exit app dialog"},
+  "exitAppMessage": "Are you sure you want to exit?",
+  "@exitAppMessage": {"description": "Message for exit app dialog"},
+  "exit": "Exit",
+  "@exit": {"description": "Exit button label"}
+}
