@@ -188,3 +188,6 @@ This project is licensed under the terms described in [LICENSE](LICENSE).
 
 ---
 
+## 📦 Release
+https://github.com/amin-khademi/daneshjouyar_test/releases/tag/v.1.0.0
+
